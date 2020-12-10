@@ -1,0 +1,12 @@
+/*******************************************************************
+* This mini framework was created by: Andres Alejandro Garcia Morales
+/*******************************************************************
+
+/***  SOCIAL MEDIA ***\
+/* Facebook ====
+/* LinkedIn ====
+/* Gmail ====
+
+///////////////
+created in 2020
+///////////////

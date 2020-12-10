@@ -1,0 +1,9 @@
+#Permitimos reescribir las urls
+RewriteEngine On
+#Evitamos la entrada a carpetas
+Options -Indexes
+#Si no existe los archivos o carpetas buscados, redirige al index
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+#Redireccionar todas las peticiones al index
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]

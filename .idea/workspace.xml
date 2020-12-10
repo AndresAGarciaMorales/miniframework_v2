@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b742f7a-31b4-4512-ba83-a935aaddb6e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/models/aboutModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/aboutModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/homeModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/homeModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/core/Autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/core/Autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/core/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/core/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/core/Route.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/core/View.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/core/View.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/helpers/Helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/helpers/Helpers.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lAtzACEdfsMiWIklNgx33LzUNd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\framewok_v2\system\Load" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b742f7a-31b4-4512-ba83-a935aaddb6e1" name="Default Changelist" comment="" />
+      <created>1607051982642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607051982642</updated>
+      <workItem from="1607051984031" duration="3672000" />
+      <workItem from="1607056070572" duration="6272000" />
+      <workItem from="1607097839554" duration="31085000" />
+      <workItem from="1607216278661" duration="3817000" />
+      <workItem from="1607321999512" duration="4621000" />
+      <workItem from="1607370622362" duration="592000" />
+      <workItem from="1607381632498" duration="1651000" />
+      <workItem from="1607392947007" duration="15756000" />
+      <workItem from="1607467947506" duration="1430000" />
+      <workItem from="1607474042029" duration="18927000" />
+      <workItem from="1607545580044" duration="12122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607055861666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1607055861666" />
+    <state x="488" y="70" key="NewPhpClassDialog" timestamp="1607125311098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1607125311098" />
+    <state x="518" y="282" key="NewPhpFileDialog" timestamp="1607216610583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="282" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1607216610583" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1607408147827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607408147827" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1607216993993">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1607216993993" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1607065074863">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607065074863" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1607327337259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607327337259" />
+  </component>
+</project>
